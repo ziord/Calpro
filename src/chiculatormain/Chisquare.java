@@ -84,4 +84,5 @@ public class Chisquare {
    public double getSol() {
       return this.sol;
    }
+
 }
